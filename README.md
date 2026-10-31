@@ -179,11 +179,13 @@ La arquitectura incluye:
 - CORS configurable
 - Actuator health check
 
-La documentación oficial confirma que Spring Boot 4.1.x está actualmente en línea estable y que Spring Security proporciona soporte de Resource Server para validar JWT Bearer tokens. [Home](https://docs.spring.io/spring-boot/reference/?utm_source=chatgpt.com)
+La documentación oficial confirma que Spring Boot 4.1.x está actualmente en línea estable y que Spring Security proporciona soporte de Resource Server para validar JWT Bearer tokens.
+
+[Documentación](https://docs.spring.io/spring-boot/reference/)
 
 ### Descargar proyecto
 
-security-api-springboot-4.1.git
+[security-api-springboot-4.1.git](https://github.com/oscarmeneses-coder/security-api.git)
 
 ### Estructura principal
 
